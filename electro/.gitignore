@@ -1,10 +1,11 @@
-HELP.md
+# Fichiers générés par Maven
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### STS ###
+# Fichiers de configuration pour IDE
+### STS (Spring Tool Suite) ###
 .apt_generated
 .classpath
 .factorypath
@@ -32,7 +33,6 @@ build/
 ### VS Code ###
 .vscode/
 
-
-
+# Fichiers de configuration locaux
 .env
 application.properties
